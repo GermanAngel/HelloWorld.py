@@ -3,10 +3,10 @@ This is a simple Hello World program.
 
 ## Usage
 After starting the program, a little window appears in the upper left hand corner of your screen.<br>
-Follow the instructions from the window.
-![Alt text](./Screenshot_startscreen.png?raw=true "Start Screen")
+Follow the instructions from the window.<br>
+![Alt text](./Screenshot_startscreen.png?raw=true "Start Screen")<br>
 
-Do you dare to click again?
+Do you dare to click again?<br>
 ![Alt text](./Screenshot_helloWorld.png?raw=true "Hello World")
 
 ## Build

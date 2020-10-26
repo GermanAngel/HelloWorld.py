@@ -4,8 +4,9 @@ This is a simple Hello World program.
 ## Usage
 After starting the program, a little window appears in the upper left hand corner of your screen.
 Follow the instructions from the window.
-
 ![Alt text](./Screenshot_startscreen.png?raw=true "Start Screen")
+
+Do you dare to click again?
 ![Alt text](./Screenshot_helloWorld.png?raw=true "Hello World")
 
 ## Build

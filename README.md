@@ -2,7 +2,7 @@
 This is a simple Hello World program.
 
 ## Usage
-After starting the program, a little window appears in the upper left hand corner of your screen.
+After starting the program, a little window appears in the upper left hand corner of your screen.<br>
 Follow the instructions from the window.
 ![Alt text](./Screenshot_startscreen.png?raw=true "Start Screen")
 

@@ -5,6 +5,9 @@ This is a simple Hello World program.
 After starting the program, a little window appears in the upper left hand corner of your screen.
 Follow the instructions from the window.
 
+![Alt text](/relative/path/to/Screenshot_startscreen.jpg?raw=true "Start Screen")
+![Alt text](/relative/path/to/Screenshot_helloWorld.jpg?raw=true "Hello World")
+
 ## Build
 If you do not already have python installed, download and install python from: `https://www.python.org/downloads/`.
 Then open a console window and run: `pip3 install tkinter`.

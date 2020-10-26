@@ -6,8 +6,7 @@ After starting the program, a little window appears in the upper left hand corne
 Follow the instructions from the window.<br>
 ![Alt text](./Screenshot_startscreen.png?raw=true "Start Screen")<br>
 
-Do you dare to click again?<br>
-![Alt text](./Screenshot_helloWorld.png?raw=true "Hello World")
+Do you dare to click again?
 
 ## Build
 If you do not already have python installed, download and install python from: `https://www.python.org/downloads/`.
